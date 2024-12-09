@@ -26,9 +26,6 @@ URL para clone: http://www.facebook.com
 
 Resutados:
 
-
-![Setoolkit](https://github.com/user-attachments/assets/7ce1f645-e2fd-47c9-98b9-361fde484495)
-
-
+![Setoolkit](https://github.com/user-attachments/assets/d8097657-1298-4863-92af-0895e02100fa)
 
 
